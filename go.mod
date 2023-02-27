@@ -1,4 +1,4 @@
-module github.com/DataDog/ebpf-manager
+module github.com/soxfmr/ebpf-manager
 
 go 1.18
 
